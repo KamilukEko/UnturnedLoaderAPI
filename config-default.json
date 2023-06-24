@@ -1,0 +1,13 @@
+{
+   "blacklisted_addresses": [],
+   "idle_session_lifespan": 0,
+   "discord_webhook_url": "url",
+   "licenses":{
+      "license-key":{
+         "addresses": {
+            "host": ["port"]
+         },
+         "library":"path/plugin.dll"
+      }
+   }
+}
